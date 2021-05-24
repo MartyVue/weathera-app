@@ -1,0 +1,17 @@
+.container {
+  position: relative;
+  top: -100px;
+  left: -27px;
+  color: #8ec9f9;
+  border: 3px solid #b9bbbc;
+  padding: 20px 20px;
+}
+h1 {
+  color: #8ec9f9;
+}
+p {
+  margin: 0 10px 0;
+}
+.raincloud {
+  width: 70px;
+}
